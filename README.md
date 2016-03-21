@@ -6,8 +6,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is complete:
 
-- [ ] Sign in flow
-- [ ] TableView and MapView implementation for clubs
+- [X] Sign in flow
+- [X] TableView and MapView implementation
 - [ ] News feed composed of user's subscribed club updates
 - [ ] User can reply YES, NO, or MAYBE to a club event
 - [ ] User can view the list of attendees
