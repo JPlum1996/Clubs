@@ -38,9 +38,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes    
-    
-        ???
+##Wire Frames:
+
+<a href="https://wireframe.cc/Bxwycx"> Wire Frames </a>
+
+<img src = 'http://i.imgur.com/RMXGe3P.jpg' title = Hand Written Wire Frames/>
 
 ## License
 
