@@ -1,4 +1,4 @@
-# Group Project - **Clubs**
+# Group Project - **Iris**
 
 Time spent: **X** hours spent in total
 
